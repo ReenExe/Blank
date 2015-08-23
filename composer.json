@@ -3,8 +3,8 @@
         "phpunit/phpunit": "4.8.*"
     },
     "autoload": {
-      "psr-4": {
-          "ReenExe\\": "src"
-      }
+        "psr-4": {
+            "ReenExe\\": "src"
+        }
     }
 }
